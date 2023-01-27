@@ -1,0 +1,25 @@
+Site_Type,Description,ABMI_Code
+Standing water,"Permanent open standing-water with no emergent vegetation, generally larger than 1.0 ha and >15 cm deep.",LenW
+River,"Open water of rivers, generally rivers wider than 20 m.",LtcR
+Temporary,Water present <3 weeks (dry by July) <15 cm deep.,LenT
+Seasonal,Water usually present >3 weeks (usually dry by July) >15 cm deep.,LenS
+Alkali,Water present >3 weeks and >15 cm deep,LenA
+Semi-Permanent to Permanent,Throughout the year except during periods of extreme drought (present in autumn in 70% of the years); often occurs adjacent to LenW; includes the march zones; water is generally >15 cm deep; if open water is present it is smaller than 1.0 ha,LenSP
+Coniferous,Coniferous trees with a combined canopy cover of greater than 25%.,LtcC
+Deciduous,Deciduous trees with a combined canopy cover of greater than 25%.,LtcD
+Shrub,Shrubs have a combined cover of at least 10%.,LtcS
+Herbaceous,Herbaceous species (including sedges) have a combined cover of at least 5%.,LtcH
+Subirrigated,"Water table is close to surface during growing season, but rarely above.  Does not have a defined depressional edge.",Sb
+Overflow,Areas subject to water spreading and sheet flow. Typically on gentle inclines or terraces above the frequent flood zone. For locations where flood frequency is less than once every ten years.,Ov
+Clayey,"Clayey-textured soils including silty clay, sandy clay, clay, and heavy clay. Generally >40% clay.",Cy
+Loamy,"Includes loam, silt loam, silt, clay loam, sandy clay loam, and silty clay loam.",Lo
+Sandy,Sandy-loam-textured soils.,Sy
+Limy,Eroded or immature soils with free lime (CaCO3) at the soil surface. Soil pH generally >7.5.,Li
+Sand,"Loamy sand and sand soils, and not with a duned surface.",Sa
+Blowouts/ Solonetzic Order,Areas with Solonetzic (hardpan) soils.  The surface may or may not have eroded pits.,BlO
+Choppy Sandhills,Loamy sand and sand soils with a duned land surface.,CS
+Thin Breaks,"Areas with bedrock at or near the soil surface.  Amount of vegetation is intermediate between Limy and Badlands. TB may include thin, eroded or immature soils on gentle to steep slopes.",TB
+Shallow to Gravel,Soil with 20 to 50 cm of a sandy or loamy surface overlying a gravel or cobble- rich substrate.,SwG
+Saline Lowland,Areas with negligible vegetation due to electrical conductivity (salts) and/or sodium adsorption ratio limitations.,SL
+Gravel,Dominated by gravels or cobbles (>50% coarse fragments). May be covered by a mantle <20 cm thick with some gravels.,Gr
+Badlands/ Bedrock,"Nearly barren or barren lands, with exposures of soft rock, hard rock, or surficial geology. Includes steep valley walls.",BdL
